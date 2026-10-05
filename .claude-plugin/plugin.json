@@ -14,5 +14,6 @@
     "tomi"
   ],
   "repository": "https://github.com/Akb82/tomi-claude-plugin",
-  "license": "MIT"
+  "license": "MIT",
+  "privacyPolicyUrl": "https://tomi.tel/privacy"
 }
