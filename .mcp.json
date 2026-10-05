@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "tomi": {
+      "type": "http",
+      "url": "https://mcp.tomi.tel/mcp"
+    }
+  }
+}
